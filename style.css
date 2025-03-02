@@ -1,0 +1,11 @@
+.btn{
+    padding: 30px;
+    font-size: 40px;
+    background-color: rgb(226, 17, 202);
+    color: rgb(244, 237, 237);
+    border: 5px solid black;
+    border-radius: 50px;
+    font-style: italic;
+    height: 200px;
+    width: 200px;
+}
