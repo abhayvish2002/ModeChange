@@ -8,7 +8,7 @@ btn.addEventListener("click",() =>{
         document.querySelector("body").style.backgroundColor="blue";
     }else{
         currmode="light";
-        document.querySelector("body").style.backgroundColor="green";
+        document.querySelector("body").style.backgroundColor="red";
     }
     console.log(currmode);
 });
